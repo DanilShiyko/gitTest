@@ -36,3 +36,10 @@ git log --graph - представление логов с графами
  >git branch -m <старое название ветки> <название в которое хотим переименовать>     - изменить название ветки
 
  >git log --oneline  - лог в сокращенном виде
+
+
+ ## Семинар 3: заливаем ветки на удаленный репозиторий GitHub
+
+>git remote add origin https://github.com/DanilShiyko/gitTest.git - создает на удаленном репозитории в облаке репозитории origin
+>git branch -M main - переименовывает текущую ветку в main
+>git push -u origin main
