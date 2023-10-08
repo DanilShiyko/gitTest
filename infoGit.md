@@ -43,3 +43,4 @@ git log --graph - представление логов с графами
 >git remote add origin https://github.com/DanilShiyko/gitTest.git - создает на удаленном репозитории в облаке репозитории origin
 >git branch -M main - переименовывает текущую ветку в main
 >git push -u origin main
+>git remote set -url origin https://github.com/DanilShiyko/gitTest.git - переименовывает переменную origin той ссылкой котоую назначаем (в случае ошибки: already exists)
