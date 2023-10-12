@@ -45,4 +45,6 @@ git log --graph - представление логов с графами
 >git push -u origin main
 >git remote set -url origin https://github.com/DanilShiyko/gitTest.git - переименовывает переменную origin той ссылкой котоую назначаем (в случае ошибки: already exists)
 
+git clone <url-адрес репозитория> - клонирование внешнего репозитоирия на локальный ПК
+
 ## Семинар 4:
